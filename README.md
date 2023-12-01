@@ -22,11 +22,21 @@ after slicing your values grt circulated
 ### Step 6: 
 we can change the values to be circulated from an element to element 
 ## Program:
+```
+
+##Developed by:Daniel.c
+
+##Register Number:23008937
+#Program to circulate N values.
+#Developed by:Daniel.C 
+#RegisterNumber:23008937
 def circulate(): 
    l=eval(input())
    n=int(input())
    l=l[n: ]+l[ :n]
    print("After circulating the values are:",l)
+```
+
 ## Output:
 ![image](https://github.com/Daniel-christal/Circulate-the-values-of-N-variables/assets/145742847/e49b4f39-fe3c-41ee-a12e-b4784731ca16)
 
