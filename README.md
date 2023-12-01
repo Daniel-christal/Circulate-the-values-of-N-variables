@@ -28,6 +28,7 @@ def circulate():
    l=l[n: ]+l[ :n]
    print("After circulating the values are:",l)
 ## Output:
-![Alt text](image.png)
+![image](https://github.com/Daniel-christal/Circulate-the-values-of-N-variables/assets/145742847/e49b4f39-fe3c-41ee-a12e-b4784731ca16)
+
 ## Result:
 circulate n variables executed successfully
